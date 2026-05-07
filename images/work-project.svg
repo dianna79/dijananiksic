@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+	<title id="title">Project management visual</title>
+	<desc id="desc">Abstract project board and planning visual.</desc>
+	<rect width="900" height="520" fill="#142023"/>
+	<rect x="74" y="82" width="752" height="356" rx="18" fill="#f5f2eb" opacity=".08"/>
+	<path d="M130 158h210M130 216h300M130 274h250M130 332h330" stroke="#70d6c3" stroke-width="18" stroke-linecap="round"/>
+	<circle cx="650" cy="170" r="58" fill="#f2b36d" opacity=".9"/>
+	<circle cx="720" cy="288" r="92" fill="#70d6c3" opacity=".24"/>
+	<path d="M612 333l52 44 112-142" fill="none" stroke="#f5f2eb" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

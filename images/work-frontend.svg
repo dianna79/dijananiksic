@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+	<title id="title">Frontend development visual</title>
+	<desc id="desc">Abstract responsive web layout and code visual.</desc>
+	<rect width="900" height="520" fill="#181a20"/>
+	<rect x="88" y="88" width="520" height="344" rx="18" fill="#f5f2eb" opacity=".09"/>
+	<rect x="642" y="150" width="170" height="252" rx="18" fill="#f5f2eb" opacity=".12"/>
+	<path d="M154 164h160M154 224h330M154 284h240M154 344h300" stroke="#70d6c3" stroke-width="15" stroke-linecap="round"/>
+	<path d="M688 214h78M688 270h78M688 326h78" stroke="#f2b36d" stroke-width="14" stroke-linecap="round"/>
+	<path d="M378 162l52 54-52 54M256 162l-52 54 52 54" fill="none" stroke="#f5f2eb" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity=".8"/>
+</svg>

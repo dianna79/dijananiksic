@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+	<title id="title">Profile image placeholder</title>
+	<desc id="desc">A professional abstract profile placeholder for Dijana Niksic portfolio.</desc>
+	<defs>
+		<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+			<stop offset="0" stop-color="#1c2a2d"/>
+			<stop offset="0.55" stop-color="#121618"/>
+			<stop offset="1" stop-color="#33251e"/>
+		</linearGradient>
+		<linearGradient id="accent" x1="0" x2="1" y1="0" y2="1">
+			<stop offset="0" stop-color="#70d6c3"/>
+			<stop offset="1" stop-color="#f2b36d"/>
+		</linearGradient>
+	</defs>
+	<rect width="900" height="1100" fill="url(#bg)"/>
+	<path d="M80 180h740M80 920h740M180 80v940M720 80v940" stroke="#ffffff" stroke-opacity=".08" stroke-width="2"/>
+	<circle cx="450" cy="380" r="145" fill="url(#accent)" opacity=".92"/>
+	<path d="M245 888c23-187 123-285 205-285s182 98 205 285" fill="#f5f2eb" opacity=".9"/>
+	<path d="M270 890c32-129 99-205 180-205s148 76 180 205" fill="#121618" opacity=".24"/>
+	<circle cx="450" cy="380" r="105" fill="#111416" opacity=".16"/>
+	<text x="450" y="1015" fill="#f5f2eb" font-family="Arial, sans-serif" font-size="54" font-weight="700" text-anchor="middle" letter-spacing="8">DIJANA</text>
+</svg>

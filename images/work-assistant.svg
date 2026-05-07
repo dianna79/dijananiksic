@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-labelledby="title desc">
+	<title id="title">Technical support visual</title>
+	<desc id="desc">Abstract website support and content workflow visual.</desc>
+	<rect width="900" height="520" fill="#1a1f1d"/>
+	<rect x="92" y="94" width="716" height="332" rx="18" fill="#f5f2eb" opacity=".08"/>
+	<rect x="142" y="146" width="270" height="228" rx="12" fill="#70d6c3" opacity=".2"/>
+	<path d="M468 166h218M468 224h168M468 282h238M468 340h126" stroke="#f5f2eb" stroke-width="16" stroke-linecap="round" opacity=".76"/>
+	<path d="M204 224l50 48 104-120" fill="none" stroke="#f2b36d" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

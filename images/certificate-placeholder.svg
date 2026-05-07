@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+	<title id="title">Certificate placeholder</title>
+	<desc id="desc">Placeholder image for a certificate screenshot.</desc>
+	<rect width="900" height="620" fill="#f5f2eb"/>
+	<rect x="56" y="56" width="788" height="508" rx="18" fill="none" stroke="#121618" stroke-opacity=".16" stroke-width="4"/>
+	<rect x="108" y="118" width="420" height="34" rx="17" fill="#121618" opacity=".18"/>
+	<rect x="108" y="188" width="684" height="20" rx="10" fill="#121618" opacity=".12"/>
+	<rect x="108" y="232" width="612" height="20" rx="10" fill="#121618" opacity=".12"/>
+	<rect x="108" y="276" width="540" height="20" rx="10" fill="#121618" opacity=".12"/>
+	<circle cx="696" cy="430" r="64" fill="#70d6c3" opacity=".78"/>
+	<path d="M662 430l28 28 58-76" fill="none" stroke="#121618" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" opacity=".72"/>
+	<text x="450" y="516" fill="#121618" opacity=".42" font-family="Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">Add certificate screenshot here</text>
+</svg>

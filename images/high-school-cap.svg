@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+	<title id="title">Graduation cap</title>
+	<desc id="desc">Graduation cap icon for high school diploma.</desc>
+	<rect width="900" height="620" fill="#151a1c"/>
+	<path d="M450 134 116 286l334 152 334-152L450 134Z" fill="#70d6c3"/>
+	<path d="M244 346v104c0 64 92 116 206 116s206-52 206-116V346L450 440 244 346Z" fill="#f5f2eb" opacity=".9"/>
+	<path d="M704 312v150" stroke="#f2b36d" stroke-width="24" stroke-linecap="round"/>
+	<circle cx="704" cy="486" r="34" fill="#f2b36d"/>
+</svg>
